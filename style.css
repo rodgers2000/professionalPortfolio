@@ -1,0 +1,21 @@
+* {
+   font-size: 4vh; 
+   background-color: #4169E1;
+}
+
+flex {
+    flex: 1 0 auto;
+    flex-wrap: no-wrap;
+}
+
+p {
+    width: auto;
+}
+
+/* a:hover {
+    color: white;
+}
+
+a:link {
+    color: white;
+} */
